@@ -21,7 +21,15 @@ Discuss the topic of the reading. Break into sections and sub-sections as
 appropriate to help with the reader's orientation with the material and future
 referencing.
 
-<h1>This is a heading</h1>
+<h1>CodeMirror!</h1>
+
+<button id="run_button">Run</button>
+
+<div id="editor"></div>
+
+<iframe id="code_result"></iframe>
+
+<script src="editor.bundle.js"></script>
 
 ## Conclusion
 
