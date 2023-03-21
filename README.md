@@ -21,9 +21,9 @@ lesson page.
 
 Discuss the topic of the reading. Break into sections and sub-sections as
 appropriate to help with the reader's orientation with the material and future
-referencing...
+referencing.
 
-<iframe width="600px" height="400px" src="https://linda-seiter.github.io/page1.html"></iframe>
+<iframe width="600" height="300" src="https://linda-seiter.github.io/page1.html"></iframe>
 
 ## Codemirror Example #2 - Comparing expected vs actual output
 
@@ -31,7 +31,7 @@ Discuss the topic of the reading. Break into sections and sub-sections as
 appropriate to help with the reader's orientation with the material and future
 referencing.
 
-<iframe width="600" height="600" src="https://linda-seiter.github.io/page3.html"></iframe>
+<iframe width="600" height="400" src="https://linda-seiter.github.io/page2.html"></iframe>
 
 ## Codemirror Example #3 - Display results of console.assert
 
