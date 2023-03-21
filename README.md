@@ -21,9 +21,9 @@ lesson page.
 
 Discuss the topic of the reading. Break into sections and sub-sections as
 appropriate to help with the reader's orientation with the material and future
-referencing.
+referencing.....
 
-<iframe height="300px" src="https://linda-seiter.github.io/page1.html"></iframe>
+<iframe  src="https://linda-seiter.github.io/page1.html"></iframe>
 
 ## Codemirror Example #2 - Comparing expected vs actual output
 
