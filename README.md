@@ -5,6 +5,7 @@
 - Example #1 - Display console output
 - Example #2 - Compare expected vs actual output
 - Example #3 - Display failed assertions
+- Example #4 - Use lint to show code errors
 
 ## Introduction
 
@@ -28,6 +29,10 @@ containing a Codemirror field.
 ## Codemirror Example #3 - Display failed assertions
 
 <iframe width="600" height="400" src="https://linda-seiter.github.io/page3.html"></iframe>
+
+## Codemirror Example #4 - Display code errors
+
+<iframe width="600" height="300" src="https://linda-seiter.github.io/page4.html"></iframe>
 
 ## Conclusion
 
