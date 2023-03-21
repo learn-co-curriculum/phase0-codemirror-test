@@ -23,7 +23,7 @@ Discuss the topic of the reading. Break into sections and sub-sections as
 appropriate to help with the reader's orientation with the material and future
 referencing...
 
-<iframe width="600px" src="https://linda-seiter.github.io/page1.html"></iframe>
+<iframe width="600px" height="400px" src="https://linda-seiter.github.io/page1.html"></iframe>
 
 ## Codemirror Example #2 - Comparing expected vs actual output
 
