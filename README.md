@@ -2,14 +2,14 @@
 
 ## Learning Goals
 
-- Example #1 - Run editor code and display console output
-- Example #2 - Run editor code and compare expected vs actual output
-- Example #3 - Run editor code and display failed assertions
+- Example #1 - Display console output
+- Example #2 - Compare expected vs actual output
+- Example #3 - Display failed assertions
 
 ## Introduction
 
-This lesson tests the use of iframe to embed Codemirror fields in a Canvas
-lesson page.
+Each Codemirror example below uses an iframe to embed an external page
+containing a Codemirror field.
 
 ## Test loading a script in Canvas - Does not work
 
@@ -19,25 +19,13 @@ lesson page.
 
 ## Codemirror Example #1 - Display console output
 
-Discuss the topic of the reading. Break into sections and sub-sections as
-appropriate to help with the reader's orientation with the material and future
-referencing.
-
 <iframe width="600" height="300" src="https://linda-seiter.github.io/page1.html"></iframe>
 
 ## Codemirror Example #2 - Comparing expected vs actual output
 
-Discuss the topic of the reading. Break into sections and sub-sections as
-appropriate to help with the reader's orientation with the material and future
-referencing.
-
 <iframe width="600" height="300" src="https://linda-seiter.github.io/page2.html"></iframe>
 
 ## Codemirror Example #3 - Display failed assertions
-
-Discuss the topic of the reading. Break into sections and sub-sections as
-appropriate to help with the reader's orientation with the material and future
-referencing.
 
 <iframe width="600" height="400" src="https://linda-seiter.github.io/page3.html"></iframe>
 
