@@ -2,24 +2,28 @@
 
 ## Learning Goals
 
-- Learning Goal 1
-- Learning Goal 2
+- Example #1 - Run editor code and display console output
+- Example #2 - Run editor code and compare expected vs actual output
+- Example #3 - Run editor code and display failed assertions
 
 ## Introduction
 
-A 1-2 sentence summary of what will be covered.
+This lesson tests the use of iframe to embed Codemirror fields in a Canvas
+lesson page.
 
-<p id="p1"></p>
+## Test loading a script in Canvas - Does not work
+
+<p id="p1">Script should replace this with "Hello"</p>
 
 <script src="tmp.js"></script>
 
-## Codemirror Example #1 - Display results of console.log
+## Codemirror Example #1 - Display console output
 
 Discuss the topic of the reading. Break into sections and sub-sections as
 appropriate to help with the reader's orientation with the material and future
 referencing.
 
-<iframe width="600" height="600" src="https://linda-seiter.github.io/page2.html"></iframe>
+<iframe width="600" height="600" src="https://linda-seiter.github.io/page1.html"></iframe>
 
 ## Codemirror Example #2 - Comparing expected vs actual output
 
