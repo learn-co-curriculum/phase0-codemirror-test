@@ -9,25 +9,27 @@
 
 A 1-2 sentence summary of what will be covered.
 
-## Topic 1
-
-Discuss the topic of the reading. Break into sections and sub-sections as
-appropriate to help with the reader's orientation with the material and future
-referencing.
-
-## Topic 2
-
-Discuss the topic of the reading. Break into sections and sub-sections as
-appropriate to help with the reader's orientation with the material and future
-referencing.
-
-<h1>CodeMirror!</h1>
-
 <p id="p1"></p>
 
 <script src="tmp.js"></script>
 
-<iframe width="800" height="600" src="https://linda-seiter.github.io/page2.html"></iframe>
+## Codemirror Example #1 - Display results of console.log
+
+Discuss the topic of the reading. Break into sections and sub-sections as
+appropriate to help with the reader's orientation with the material and future
+referencing.
+
+<iframe width="600" height="600" src="https://linda-seiter.github.io/page2.html"></iframe>
+
+## Codemirror Example #2 - Comparing expected vs actual output
+
+Discuss the topic of the reading. Break into sections and sub-sections as
+appropriate to help with the reader's orientation with the material and future
+referencing.
+
+<iframe width="600" height="600" src="https://linda-seiter.github.io/page3.html"></iframe>
+
+## Codemirror Example #3 - Display results of console.assert
 
 ## Conclusion
 
