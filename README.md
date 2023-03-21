@@ -33,7 +33,13 @@ referencing.
 
 <iframe width="600" height="300" src="https://linda-seiter.github.io/page2.html"></iframe>
 
-## Codemirror Example #3 - Display results of console.assert
+## Codemirror Example #3 - Display failed assertions
+
+Discuss the topic of the reading. Break into sections and sub-sections as
+appropriate to help with the reader's orientation with the material and future
+referencing.
+
+<iframe width="600" height="400" src="https://linda-seiter.github.io/page3.html"></iframe>
 
 ## Conclusion
 
