@@ -34,12 +34,7 @@ containing a Codemirror field.
 
 <iframe width="600" height="300" src="https://linda-seiter.github.io/page4.html"></iframe>
 
-## Conclusion
-
-A short one or two paragraph summary of the contents of the lessons, recapping
-the learning goals.
 
 ## Resources
 
-- [Resource Link 1](example.com)
-- [Resource Link 2](example.com)
+- [Codemirror](https://codemirror.net/)
